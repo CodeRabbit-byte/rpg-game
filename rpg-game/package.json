@@ -1,0 +1,23 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "A simple RPG game where a player must survive against AI robots.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "rpg",
+    "game",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
